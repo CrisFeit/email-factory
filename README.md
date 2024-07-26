@@ -12,10 +12,10 @@ npx create-vtex-email my-emails
 
 ### 🎮 Commands
 
-| npm | yarn |
-| ----------- | --- |
-|`npm run dev` | `yarn dev`|
-|`npm run build` | `yarn build`|
+| npm | yarn | pnpm |
+| ----------- | --- | --- |
+|`npm run dev` | `yarn dev`| `pnpm run dev`|
+|`npm run build` | `yarn build`| `pnpm run build`|
 
 ### ⚔️ Features
 
