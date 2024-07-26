@@ -1,6 +1,6 @@
 # VTEX Email Framework
 
-[![Badge](https://img.shields.io/badge/%20VTEX-%3D?logo=vtex&color=ED125F&label=emails&logoColor=ED125F)](https://help.vtex.com/tutorial/list-of-e-mail-templates-in-the-message-center--3g2S2kqBOoSGcCaqMYK2my) [![Badge](https://img.shields.io/badge/%20handlebars-%3D?logo=handlebars.js&color=f0772b&label=templating&logoColor=f0772b)](https://handlebarsjs.com/) [![Badge](https://img.shields.io/badge/%20node.js-%20%3E%3D_14-brightgreen?logo=node.js)](https://nodejs.org) [![Badge](https://img.shields.io/npm/dm/vtex-email-framework?color=%23CB3837&logo=npm)](https://www.npmjs.com/package/vtex-email-framework)
+[![Badge](https://img.shields.io/badge/%20VTEX-%3D?logo=vtex&color=ED125F&label=emails&logoColor=ED125F)](https://help.vtex.com/tutorial/list-of-e-mail-templates-in-the-message-center--3g2S2kqBOoSGcCaqMYK2my) [![Badge](https://img.shields.io/badge/%20handlebars-%3D?logo=handlebars.js&color=f0772b&label=templating&logoColor=f0772b)](https://handlebarsjs.com/) [![Badge](https://img.shields.io/badge/v3%20node.js-%20%3E%3D_14-forestgreen?logo=node.js)](https://nodejs.org) [![Badge](https://img.shields.io/badge/v4%20node.js-%20%3E%3D_18-forestgreen?logo=node.js)](https://nodejs.org) [![Badge](https://img.shields.io/npm/dm/vtex-email-framework?color=%23CB3837&logo=npm)](https://www.npmjs.com/package/vtex-email-framework)
 
 ## Transactional emails development architecture
 
