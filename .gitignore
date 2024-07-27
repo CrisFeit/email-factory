@@ -21,8 +21,6 @@ dist/
 .npm
 *.map
 *.tgz
-*.lock
-*-lock.json
 # logs
 logs
 *.log
